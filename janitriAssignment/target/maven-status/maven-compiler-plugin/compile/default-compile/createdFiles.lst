@@ -1,0 +1,13 @@
+com\example\janitriAssignment\repository\PatientRepository.class
+com\example\janitriAssignment\controller\HeartRateController.class
+com\example\janitriAssignment\controller\UserController.class
+com\example\janitriAssignment\model\HeartRate.class
+com\example\janitriAssignment\service\PatientService.class
+com\example\janitriAssignment\service\UserService.class
+com\example\janitriAssignment\repository\HeartRateRepository.class
+com\example\janitriAssignment\model\Patient.class
+com\example\janitriAssignment\JanitriAssignmentApplication.class
+com\example\janitriAssignment\repository\UserRepository.class
+com\example\janitriAssignment\controller\PatientController.class
+com\example\janitriAssignment\service\HeartRateService.class
+com\example\janitriAssignment\model\User.class
